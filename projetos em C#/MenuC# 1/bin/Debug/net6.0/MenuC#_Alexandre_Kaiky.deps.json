@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MenuC#_Alexandre_Kaiky/1.0.0": {
+        "runtime": {
+          "MenuC#_Alexandre_Kaiky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuC#_Alexandre_Kaiky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

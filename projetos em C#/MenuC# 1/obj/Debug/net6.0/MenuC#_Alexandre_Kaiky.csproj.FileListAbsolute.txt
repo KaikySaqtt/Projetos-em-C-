@@ -1,0 +1,30 @@
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.exe
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.deps.json
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.runtimeconfig.json
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.dll
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.pdb
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.dll
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\refint\MenuC#_Alexandre_Kaiky.dll
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.pdb
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\PA\MenuC#_Alexandre_Kaiky\obj\Debug\net6.0\ref\MenuC#_Alexandre_Kaiky.dll
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.exe
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.deps.json
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.runtimeconfig.json
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.dll
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\bin\Debug\net6.0\MenuC#_Alexandre_Kaiky.pdb
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.dll
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\refint\MenuC#_Alexandre_Kaiky.dll
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.pdb
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\MenuC#_Alexandre_Kaiky.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\projetos em C#\MenuC# 1\obj\Debug\net6.0\ref\MenuC#_Alexandre_Kaiky.dll

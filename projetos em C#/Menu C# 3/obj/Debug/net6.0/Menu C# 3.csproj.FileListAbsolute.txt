@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\bin\Debug\net6.0\Menu C# 3.exe
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\bin\Debug\net6.0\Menu C# 3.deps.json
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\bin\Debug\net6.0\Menu C# 3.runtimeconfig.json
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\bin\Debug\net6.0\Menu C# 3.dll
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\bin\Debug\net6.0\Menu C# 3.pdb
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.dll
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\refint\Menu C# 3.dll
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.pdb
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\Menu C# 3.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\projetos em C#\Menu C# 3\obj\Debug\net6.0\ref\Menu C# 3.dll
